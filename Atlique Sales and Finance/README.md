@@ -57,16 +57,6 @@ To evaluate financial stability, measure growth, and assist stakeholders in maki
 | **DAX**         | Creating calculated columns and business logic                    |
 | **Excel**       | Dashboard creation, data visualization, KPI modeling              |
 
- ## 📂 Repository Structure
-``` 
-AtliQ-Excel-Analytics/
-│── Sales Reports/
-│── Finance Reports/
-│── Data Source/
-│── Documentation/
-└── README.md
-
-```
 
 ## 🖼️ Report Previews
 
