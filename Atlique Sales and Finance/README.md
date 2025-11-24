@@ -1,4 +1,4 @@
-## 📊 AtliQ Hardware – Excel Analytics Report
+## 📊 AtliQ Sales and Finance Report
 
 A comprehensive Sales and Finance Analytics project built using Excel, Power Query, Power Pivot, and DAX.
 This project delivers actionable insights into customer performance, market trends, and financial health to support data-driven decision-making.
@@ -58,7 +58,7 @@ To evaluate financial stability, measure growth, and assist stakeholders in maki
 | **Excel**       | Dashboard creation, data visualization, KPI modeling              |
 
  ## 📂 Repository Structure
- 
+``` 
 AtliQ-Excel-Analytics/
 │── Sales Reports/
 │── Finance Reports/
@@ -66,5 +66,9 @@ AtliQ-Excel-Analytics/
 │── Documentation/
 └── README.md
 
+```
+
 ## 🖼️ Report Previews
+
+* `Sales Report` ![alt text](https) 
 
