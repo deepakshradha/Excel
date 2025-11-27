@@ -60,5 +60,5 @@ To evaluate financial stability, measure growth, and assist stakeholders in maki
 
 ## 🖼️ Report Previews
 
-* `Sales Report` ![alt text](https) 
+* `Finance Report` ![alt text](https://github.com/deepakshradha/Excel/blob/main/Atlique%20Sales%20and%20Finance/Finance%20Report.jpeg) 
 
