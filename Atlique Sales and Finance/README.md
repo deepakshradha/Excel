@@ -60,5 +60,11 @@ To evaluate financial stability, measure growth, and assist stakeholders in maki
 
 ## 🖼️ Report Previews
 
-* `Finance Report` ![alt text](https://github.com/deepakshradha/Excel/blob/main/Atlique%20Sales%20and%20Finance/Finance%20Report.jpeg) 
+* `Finance Report` ![alt text](https://github.com/deepakshradha/Excel/blob/main/Atlique%20Sales%20and%20Finance/Finance%20Report.jpeg)
+* `Customer net sales report` ![alt text](https://github.com/deepakshradha/Excel/blob/main/Atlique%20Sales%20and%20Finance/customer%20net%20sales%20report.jpeg)
+* `GM% by quater(sub-region)` ![alt text](https://github.com/deepakshradha/Excel/blob/main/Atlique%20Sales%20and%20Finance/GM%25%20by%20Quater(sub-region).jpeg)
+* `Market performance Vs Target` ![alt text](https://github.com/deepakshradha/Excel/blob/main/Atlique%20Sales%20and%20Finance/market%20performance%20vs%20target%20report.jpeg)
+* `P&L by market` ![alt text](https://github.com/deepakshradha/Excel/blob/main/Atlique%20Sales%20and%20Finance/P%26L%20by%20market.jpeg)
+* `P&L by month` ![alt text](https://github.com/deepakshradha/Excel/blob/main/Atlique%20Sales%20and%20Finance/P%26L%20by%20month.jpeg)
+
 
